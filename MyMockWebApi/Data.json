@@ -1,0 +1,106 @@
+﻿[
+  {
+    "Id": 1,
+    "Title": "Title1",
+    "DateTime": "2017-11-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/TestImage",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 2,
+    "Title": "Let's party at the beach",
+    "DateTime": "2017-11-21T09:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/PartyAtTheBeach",
+    "AvailableSeats": 10,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 3,
+    "Title": "Title3",
+    "DateTime": "2017-10-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/TestImage",
+    "AvailableSeats": 19,
+    "Location": "Perth"
+  },
+  {
+    "Id": 4,
+    "Title": "Bring your dogs for a bash",
+    "DateTime": "2017-12-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/DogParty",
+    "AvailableSeats": 20,
+    "Location": "Hobart"
+  },
+  {
+    "Id": 5,
+    "Title": "Title5",
+    "DateTime": "2017-11-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/TestImage",
+    "AvailableSeats": 20,
+    "Location": "Melbourne"
+  },
+  {
+    "Id": 6,
+    "Title": "Another party at the beach",
+    "DateTime": "2018-01-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/PartyAtTheBeach",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 7,
+    "Title": "Title7",
+    "DateTime": "2018-02-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/TestImage",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 8,
+    "Title": "Another dog bash",
+    "DateTime": "2018-01-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/DogParty",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 9,
+    "Title": "Title9",
+    "DateTime": "2017-10-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/TestImage",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 10,
+    "Title": "Let's dance at the beach",
+    "DateTime": "2017-01-20T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/PartyAtTheBeach",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 11,
+    "Title": "Title11",
+    "DateTime": "2018-01-11T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/TestImage",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 12,
+    "Title": "Happy 2018",
+    "DateTime": "2017-12-31T18:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/NewYearParty",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  },
+  {
+    "Id": 13,
+    "Title": "Ho ho ho! Merry Christmas 2017!",
+    "DateTime": "2017-11-24T08:00:00",
+    "ImageUrl": "http://localhost:58824/api/images/ChristmasParty",
+    "AvailableSeats": 20,
+    "Location": "Brisbane"
+  }
+]
